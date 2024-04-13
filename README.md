@@ -1,7 +1,8 @@
 # ZeroHAR
 This is a repository to implement Zero-Shot Wearable Human Activity Recognition.
 
-![alt text](https://github.com/ranakroychowdhury/ZeroHAR/blob/main/setup.png)
+![alt text](https://github.com/ranakroychowdhury/ZeroHAR/blob/0be478d0c47ed30352426e83ad34c73735d4bd1f/setup.png)
+
 
 
 ## Datasets
@@ -19,7 +20,7 @@ uschad: https://sipi.usc.edu/had/
 
 Split the data according to the class splits in the following table. Place X_train.npy, y_train.npy, X_test.npy, y_test.npy under the directory of the corresponding dataset folder under data/.
 
-![alt text](https://github.com/ranakroychowdhury/ZeroHAR/blob/main/class_splits.png)
+![alt text](https://github.com/ranakroychowdhury/ZeroHAR/blob/0be478d0c47ed30352426e83ad34c73735d4bd1f/class_splits.png)
 
 
 
