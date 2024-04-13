@@ -1,8 +1,6 @@
 # ZeroHAR
 This is a repository to implement Zero-Shot Wearable Human Activity Recognition.
 
-![alt text](https://github.com/ranakroychowdhury/ZeroHAR/blob/0be478d0c47ed30352426e83ad34c73735d4bd1f/setup.png)
-
 
 
 ## Datasets
@@ -18,9 +16,7 @@ wisdm: https://archive.ics.uci.edu/dataset/507/wisdm+smartphone+and+smartwatch+a
 
 uschad: https://sipi.usc.edu/had/
 
-Split the data according to the class splits in the following table. Place X_train.npy, y_train.npy, X_test.npy, y_test.npy under the directory of the corresponding dataset folder under data/.
-
-![alt text](https://github.com/ranakroychowdhury/ZeroHAR/blob/0be478d0c47ed30352426e83ad34c73735d4bd1f/class_splits.png)
+Split the data according to the class splits in Table 7 under Appendix A.2 of the paper. Place X_train.npy, y_train.npy, X_test.npy, y_test.npy under the directory of the corresponding dataset folder under data/.
 
 
 
@@ -46,7 +42,7 @@ The metatdata folder contains the following files:
 python3 stage1_script.py --dataset uschad --zsl --fold fold1
 ```
 
-This command runs Stage I training on `uschad` dataset for `fold 1`. Folds are defined in the above table. After Stage I training completes, it will save the model and optimizer.
+This command runs Stage I training on `uschad` dataset for `fold 1`. Folds are defined in Table 7 under Appendix A.2 of the paper. After Stage I training completes, it will save the model and optimizer.
 
 
 
@@ -56,5 +52,5 @@ This command runs Stage I training on `uschad` dataset for `fold 1`. Folds are d
 python3 stage2_script.py --dataset uschad --zsl --fold fold1 --pretrained
 ```
 
-This command runs Stage I training on `uschad` dataset for `fold 1` using the model saved in Stage I. Folds are defined in the above table. It will also run the evaluation on the test set and generate the Accuracy and F1 metrics for the given fold.
+This command runs Stage I training on `uschad` dataset for `fold 1` using the model saved in Stage I. Folds are defined in Table 7 under Appendix A.2 of the paper. It will also run the evaluation on the test set and generate the Accuracy and F1 metrics for the given fold.
 
