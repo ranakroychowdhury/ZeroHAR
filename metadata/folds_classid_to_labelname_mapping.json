@@ -1,0 +1,24 @@
+{"Opp_g": {"fold0": {}, 
+            "fold1": {"0": "open door", "3": "close fridge", "4": "open dishwasher", "7": "close drawer"}, 
+            "fold2": {"1": "close door", "2": "open fridge", "5": "close dishwasher", "6": "open drawer"}, 
+            "fold3": {"8": "clean table", "9": "drink from cup", "10": "toggle switch"}},
+
+"PAMAP2": {"fold0": {}, 
+            "fold1": {"6": "nordic walking", "8": "descending stairs", "10": "ironing", "11": "rope jumping"}, 
+            "fold2": {"1": "sitting", "3": "walking", "7": "ascending stairs", "9": "vacuum cleaning"}, 
+            "fold3": {"0": "lying", "2": "standing", "4": "running", "5": "cycling"}},
+        
+"harth": {"fold0": {}, 
+            "fold1": {"8": "cycling sit", "10": "cycling stand inactive", "3": "ascending stairs", "1": "running"}, 
+            "fold2": {"6": "sitting", "4": "descending stairs", "7": "lying"}, 
+            "fold3": {"9": "cycling sit inactive", "5": "standing", "0": "walking", "2": "shuffling"}},
+            
+"uschad": {"fold0": {}, 
+            "fold1": {"0": "walking forward", "3": "walking upstairs", "6": "jumping", "9": "sleeping"}, 
+            "fold2": {"1": "walking left", "4": "walking downstairs", "7": "sitting", "10": "elevator up"}, 
+            "fold3": {"2": "walking right", "5": "running forward", "8": "standing", "11": "elevator down"}},
+
+"wisdm": {"fold0": {}, 
+            "fold1": {"7": "eating soup", "0": "walking", "3": "sitting", "6": "brushing teeth", "12": "kicking soccer ball", "15": "writing"}, 
+            "fold2": {"8": "eating chips", "1": "jogging", "4": "standing", "10" : "drinking from cup", "13": "playing catch with tennis ball", "16": "clapping"}, 
+            "fold3": {"9": "eating pasta", "2": "stairs", "5": "typing", "11": "eating sandwich", "14": "dribbling basketball", "17" : "folding clothes"}}}

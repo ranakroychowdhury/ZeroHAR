@@ -1,0 +1,142 @@
+{
+"PAMAP2": 
+    {
+        "wrist_acc_x": "x-axis data of an accelerometer sensor attached to the wrist", 
+        "wrist_acc_y": "y-axis data of an accelerometer sensor attached to the wrist", 
+        "wrist_acc_z": "z-axis data of an accelerometer sensor attached to the wrist",
+
+        "wrist_gyr_x": "x-axis data of a gyroscope sensor attached to the wrist",
+        "wrist_gyr_y": "y-axis data of a gyroscope sensor attached to the wrist", 
+        "wrist_gyr_z": "z-axis data of a gyroscope sensor attached to the wrist",
+
+        "wrist_mag_x": "x-axis data of a magnetometer sensor attached to the wrist",
+        "wrist_mag_y": "y-axis data of a magnetometer sensor attached to the wrist",
+        "wrist_mag_z": "z-axis data of a magnetometer sensor attached to the wrist",
+
+        "ankle_acc_x": "x-axis data of an accelerometer sensor attached to the ankle",
+        "ankle_acc_y": "y-axis data of an accelerometer sensor attached to the ankle", 
+        "ankle_acc_z": "z-axis data of an accelerometer sensor attached to the ankle",
+
+        "ankle_gyr_x": "x-axis data of a gyroscope sensor attached to the ankle",
+        "ankle_gyr_y": "y-axis data of a gyroscope sensor attached to the ankle",
+        "ankle_gyr_z": "z-axis data of a gyroscope sensor attached to the ankle",
+
+        "ankle_mag_x": "x-axis data of a magnetometer sensor attached to the ankle",
+        "ankle_mag_y": "y-axis data of a magnetometer sensor attached to the ankle",
+        "ankle_mag_z": "z-axis data of a magnetometer sensor attached to the ankle",
+
+        "chest_acc_x": "x-axis data of an accelerometer sensor attached to the chest",
+        "chest_acc_y": "y-axis data of an accelerometer sensor attached to the chest",
+        "chest_acc_z": "z-axis data of an accelerometer sensor attached to the chest",
+
+        "chest_gyr_x": "x-axis data of a gyroscope sensor attached to the chest",
+        "chest_gyr_y": "y-axis data of a gyroscope sensor attached to the chest",
+        "chest_gyr_z": "z-axis data of a gyroscope sensor attached to the chest",
+
+        "chest_mag_x": "x-axis data of a magnetometer sensor attached to the chest",
+        "chest_mag_y": "y-axis data of a magnetometer sensor attached to the chest",
+        "chest_mag_z": "z-axis data of a magnetometer sensor attached to the chest"
+    }, 
+
+
+"Opp_g": 
+    {
+        "back_acc_x": "x-axis data of an accelerometer sensor attached to the back",
+        "back_acc_y": "y-axis data of an accelerometer sensor attached to the back",
+        "back_acc_z": "z-axis data of an accelerometer sensor attached to the back",
+
+        "back_gyr_x": "x-axis data of a gyroscope sensor attached to the back",
+        "back_gyr_y": "y-axis data of a gyroscope sensor attached to the back",
+        "back_gyr_z": "z-axis data of a gyroscope sensor attached to the back",
+
+        "back_mag_x": "x-axis data of a magnetometer sensor attached to the back",
+        "back_mag_y": "y-axis data of a magnetometer sensor attached to the back",
+        "back_mag_z": "z-axis data of a magnetometer sensor attached to the back",
+
+        "rua_acc_x": "x-axis data of an accelerometer sensor attached to the right upper arm",
+        "rua_acc_y": "y-axis data of an accelerometer sensor attached to the right upper arm",
+        "rua_acc_z": "z-axis data of an accelerometer sensor attached to the right upper arm",
+
+        "rua_gyr_x": "x-axis data of a gyroscope sensor attached to the right upper arm",
+        "rua_gyr_y": "y-axis data of a gyroscope sensor attached to the right upper arm",
+        "rua_gyr_z": "z-axis data of a gyroscope sensor attached to the right upper arm",
+
+        "rua_mag_x": "x-axis data of a magnetometer sensor attached to the right upper arm",
+        "rua_mag_y": "y-axis data of a magnetometer sensor attached to the right upper arm",
+        "rua_mag_z": "z-axis data of a magnetometer sensor attached to the right upper arm",
+
+        "rla_acc_x": "x-axis data of an accelerometer sensor attached to the right lower arm",
+        "rla_acc_y": "y-axis data of an accelerometer sensor attached to the right lower arm",
+        "rla_acc_z": "z-axis data of an accelerometer sensor attached to the right lower arm",
+
+        "rla_gyr_x": "x-axis data of a gyroscope sensor attached to the right lower arm",
+        "rla_gyr_y": "y-axis data of a gyroscope sensor attached to the right lower arm",
+        "rla_gyr_z": "z-axis data of a gyroscope sensor attached to the right lower arm",
+
+        "rla_mag_x": "x-axis data of a magnetometer sensor attached to the right lower arm",
+        "rla_mag_y": "y-axis data of a magnetometer sensor attached to the right lower arm",
+        "rla_mag_z": "z-axis data of a magnetometer sensor attached to the right lower arm",
+
+        "lua_acc_x": "x-axis data of an accelerometer sensor attached to the left upper arm",
+        "lua_acc_y": "y-axis data of an accelerometer sensor attached to the left upper arm",
+        "lua_acc_z": "z-axis data of an accelerometer sensor attached to the left upper arm",
+
+        "lua_gyr_x": "x-axis data of a gyroscope sensor attached to the left upper arm",
+        "lua_gyr_y": "y-axis data of a gyroscope sensor attached to the left upper arm",
+        "lua_gyr_z": "z-axis data of a gyroscope sensor attached to the left upper arm",
+
+        "lua_mag_x": "x-axis data of a magnetometer sensor attached to the left upper arm",
+        "lua_mag_y": "y-axis data of a magnetometer sensor attached to the left upper arm",
+        "lua_mag_z": "z-axis data of a magnetometer sensor attached to the left upper arm",
+
+        "lla_acc_x": "x-axis data of an accelerometer sensor attached to the left lower arm",
+        "lla_acc_y": "y-axis data of an accelerometer sensor attached to the left lower arm",
+        "lla_acc_z": "z-axis data of an accelerometer sensor attached to the left lower arm",
+
+        "lla_gyr_x": "x-axis data of a gyroscope sensor attached to the left lower arm",
+        "lla_gyr_y": "y-axis data of a gyroscope sensor attached to the left lower arm",
+        "lla_gyr_z": "z-axis data of a gyroscope sensor attached to the left lower arm",
+
+        "lla_mag_x": "x-axis data of a magnetometer sensor attached to the left lower arm",
+        "lla_mag_y": "y-axis data of a magnetometer sensor attached to the left lower arm",
+        "lla_mag_z": "z-axis data of a magnetometer sensor attached to the left lower arm"
+    },
+
+
+"harth":
+    {
+        "back_acc_x": "x-axis data of an accelerometer sensor attached to the back",
+        "back_acc_y": "y-axis data of an accelerometer sensor attached to the back",
+        "back_acc_z": "z-axis data of an accelerometer sensor attached to the back",
+
+        "thigh_acc_x": "x-axis data of an accelerometer sensor attached to the thigh",
+        "thigh_acc_y": "y-axis data of an accelerometer sensor attached to the thigh",
+        "thigh_acc_z": "z-axis data of an accelerometer sensor attached to the thigh"
+    },
+
+
+"wisdm":
+    {
+        "wrist_acc_x": "x-axis data of an accelerometer sensor attached to the wrist",
+        "wrist_acc_y": "y-axis data of an accelerometer sensor attached to the wrist",
+        "wrist_acc_z": "z-axis data of an accelerometer sensor attached to the wrist",
+
+        "wrist_gyr_x": "x-axis data of a gyroscope sensor attached to the wrist",
+        "wrist_gyr_y": "y-axis data of a gyroscope sensor attached to the wrist",
+        "wrist_gyr_z": "z-axis data of a gyroscope sensor attached to the wrist"
+
+    },
+
+
+"uschad":
+    {
+        "frh_acc_x": "x-axis data of an accelerometer sensor attached to the front right hip",
+        "frh_acc_y": "y-axis data of an accelerometer sensor attached to the front right hip",
+        "frh_acc_z": "z-axis data of an accelerometer sensor attached to the front right hip",
+        
+        "frh_gyr_x": "x-axis data of a gyroscope sensor attached to the front right hip",
+        "frh_gyr_y": "y-axis data of a gyroscope sensor attached to the front right hip",
+        "frh_gyr_z": "z-axis data of a gyroscope sensor attached to the front right hip"
+    }
+
+} 

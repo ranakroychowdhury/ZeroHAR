@@ -1,0 +1,16 @@
+{"Opp_g": {"nclasses": 11, "batch": 128, "lr": 0.001, "nlayers": 8, "emb_size": 64, "nhead": 8, 
+            "epochs": 300, "avg": "macro", "dropout": 0.01, "nhid": 128, "attributes": 12, "k_knn": 7}, 
+            
+"PAMAP2": {"nclasses": 12, "batch": 64, "lr": 0.001, "nlayers": 8, "emb_size": 64, "nhead": 8, 
+            "epochs": 300, "avg": "macro", "dropout": 0.01, "nhid": 128, "attributes": 38, "k_knn": 7},
+        
+"harth": {"nclasses": 11, "batch": 128, "lr": 0.001, "nlayers": 8, "emb_size": 64, "nhead": 8, 
+            "epochs": 300, "avg": "macro", "dropout": 0.01, "nhid": 128, "attributes": 20, "k_knn": 7},      
+        
+"uschad": {"nclasses": 12, "batch": 128, "lr": 0.001, "nlayers": 8, "emb_size": 64, "nhead": 8, 
+            "epochs": 300, "avg": "macro", "dropout": 0.01, "nhid": 128, "attributes": 20, "k_knn": 7},
+
+"wisdm": {"nclasses": 18, "batch": 128, "lr": 0.001, "nlayers": 8, "emb_size": 64, "nhead": 8, 
+            "epochs": 300, "avg": "macro", "dropout": 0.01, "nhid": 128, "attributes": 20, "k_knn": 7}}
+
+

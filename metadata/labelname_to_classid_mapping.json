@@ -1,0 +1,15 @@
+{"Opp_g": {"open door": 0, "close door": 1, "open fridge": 2, "close fridge": 3, "open dishwasher": 4, "close dishwasher": 5, 
+            "open drawer": 6, "close drawer": 7, "clean table": 8, "drink from cup": 9, "toggle switch": 10}, 
+            
+"PAMAP2": {"lying": 0, "sitting": 1, "standing": 2, "walking": 3, "running": 4, "cycling": 5, "nordic walking": 6, 
+            "ascending stairs": 7, "descending stairs": 8, "vacuum cleaning": 9, "ironing": 10, "rope jumping": 11},
+        
+"harth": {"walking": 0, "running": 1, "shuffling": 2, "ascending stairs": 3, "descending stairs": 4, "standing": 5, "sitting": 6, 
+            "lying": 7, "cycling sit": 8, "cycling sit inactive": 9, "cycling stand inactive": 10},
+
+"uschad": {"walking forward": 0, "walking left": 1, "walking right": 2, "walking upstairs": 3, "walking downstairs": 4, "running forward": 5,
+            "jumping": 6, "sitting": 7, "standing": 8, "sleeping": 9, "elevator up": 10, "elevator down": 11},
+
+"wisdm": {"walking": 0, "jogging": 1, "stairs": 2, "sitting": 3, "standing": 4, "typing": 5, "brushing teeth": 6, "eating soup": 7,
+            "eating chips": 8, "eating pasta": 9, "drinking from cup": 10, "eating sandwich": 11, "kicking soccer ball": 12,
+            "playing catch with tennis ball": 13, "dribbling basketball": 14, "writing": 15, "clapping": 16, "folding clothes": 17}}

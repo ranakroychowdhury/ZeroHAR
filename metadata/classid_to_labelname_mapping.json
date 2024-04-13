@@ -1,0 +1,15 @@
+{"Opp_g": {"0": "open door", "1": "close door", "2": "open fridge", "3": "close fridge", "4": "open dishwasher", "5": "close dishwasher", 
+            "6": "open drawer", "7": "close drawer", "8": "clean table", "9": "drink from cup", "10": "toggle switch"}, 
+
+"PAMAP2": {"0": "lying", "1": "sitting", "2": "standing", "3": "walking", "4": "running", "5": "cycling", "6": "nordic walking", 
+            "7": "ascending stairs", "8": "descending stairs", "9": "vacuum cleaning", "10": "ironing", "11": "rope jumping"},
+        
+"harth": {"0": "walking", "1": "running", "2": "shuffling", "3": "ascending stairs", "4": "descending stairs", "5": "standing", "6": "sitting", 
+            "7": "lying", "8": "cycling sit", "9": "cycling sit inactive", "10": "cycling stand inactive"}, 
+            
+"uschad": {"0": "walking forward", "1": "walking left", "2": "walking right", "3": "walking upstairs", "4": "walking downstairs", 
+            "5": "running forward", "6": "jumping", "7": "sitting", "8": "standing", "9": "sleeping", "10": "elevator up", "11": "elevator down"},
+
+"wisdm": {"0": "walking", "1": "jogging", "2": "stairs", "3": "sitting", "4": "standing", "5": "typing", "6": "brushing teeth", "7": "eating soup",
+            "8": "eating chips", "9": "eating pasta", "10" : "drinking from cup", "11": "eating sandwich", "12": "kicking soccer ball",
+            "13": "playing catch with tennis ball", "14": "dribbling basketball", "15": "writing", "16": "clapping", "17" : "folding clothes"}}

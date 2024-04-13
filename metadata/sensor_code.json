@@ -1,0 +1,12 @@
+{
+    "PAMAP2": ["wrist_acc_x", "wrist_acc_y", "wrist_acc_z", "wrist_gyr_x", "wrist_gyr_y", "wrist_gyr_z", "wrist_mag_x", "wrist_mag_y", "wrist_mag_z", "ankle_acc_x", "ankle_acc_y", "ankle_acc_z", "ankle_gyr_x", "ankle_gyr_y", "ankle_gyr_z", "ankle_mag_x", "ankle_mag_y", "ankle_mag_z", "chest_acc_x", "chest_acc_y", "chest_acc_z", "chest_gyr_x", "chest_gyr_y", "chest_gyr_z", "chest_mag_x", "chest_mag_y", "chest_mag_z"], 
+    
+    "Opp_g": ["back_acc_x", "back_acc_y", "back_acc_z", "back_gyr_x", "back_gyr_y", "back_gyr_z", "back_mag_x", "back_mag_y", "back_mag_z", "rua_acc_x", "rua_acc_y", "rua_acc_z", "rua_gyr_x", "rua_gyr_y", "rua_gyr_z", "rua_mag_x", "rua_mag_y", "rua_mag_z", "rla_acc_x", "rla_acc_y", "rla_acc_z", "rla_gyr_x", "rla_gyr_y", "rla_gyr_z", "rla_mag_x", "rla_mag_y", "rla_mag_z", "lua_acc_x", "lua_acc_y", "lua_acc_z", "lua_gyr_x", "lua_gyr_y", "lua_gyr_z", "lua_mag_x", "lua_mag_y", "lua_mag_z", "lla_acc_x", "lla_acc_y", "lla_acc_z", "lla_gyr_x", "lla_gyr_y", "lla_gyr_z", "lla_mag_x", "lla_mag_y", "lla_mag_z"],
+    
+    "harth": ["back_acc_x", "back_acc_y", "back_acc_z", "thigh_acc_x", "thigh_acc_y", "thigh_acc_z"],
+    
+    "wisdm": ["wrist_acc_x", "wrist_acc_y", "wrist_acc_z", "wrist_gyr_x", "wrist_gyr_y", "wrist_gyr_z"],
+    
+    "uschad": ["frh_acc_x", "frh_acc_y", "frh_acc_z", "frh_gyr_x", "frh_gyr_y", "frh_gyr_z"]
+    
+} 
