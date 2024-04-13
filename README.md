@@ -52,5 +52,5 @@ This command runs Stage I training on `uschad` dataset for `fold 1`. Folds are d
 python3 stage2_script.py --dataset uschad --zsl --fold fold1 --pretrained
 ```
 
-This command runs Stage I training on `uschad` dataset for `fold 1` using the model saved in Stage I. Folds are defined in Table 7 under Appendix A.2 of the paper. It will also run the evaluation on the test set and generate the Accuracy and F1 metrics for the given fold.
+This command runs Stage II training on `uschad` dataset for `fold 1` using the model saved in Stage I. Folds are defined in Table 7 under Appendix A.2 of the paper. It will also run the evaluation on the test set and generate the Accuracy and F1 metrics for the given fold.
 
