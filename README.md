@@ -3,10 +3,6 @@ This is a repository to implement Zero-Shot Wearable Human Activity Recognition.
 
 ![alt text](https://github.com/ranakroychowdhury/ZeroHAR/blob/main/setup.png)
 
-## Quick Start
-```
-git clone https://github.com/ranakroychowdhury/ZeroHAR.git
-```
 
 ## Datasets
 Because the file sizes are bigger than the maximum size supported by Github and uploading them in Google Drive/DropBox risks revealing author identity, we release pointers to the datasets. We will upload our preprocessed datasets on Google Drive once the review process is complete.
